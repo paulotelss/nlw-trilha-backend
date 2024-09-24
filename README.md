@@ -45,3 +45,12 @@ A aplicação tem como objetivo permitir que os usuários registrem e gerenciem 
 - Persistência no banco de dados com Drizzle ORM e PostgreSQL.
 - Containerização com Docker.
 - Ferramentas modernas para o frontend como React.js, Vite, Tailwind CSS e TanStack Query.
+
+  
+ ![readme004](https://github.com/user-attachments/assets/004aa2ff-3a3f-4755-b065-c032707ca725)
+
+ ![readme005](https://github.com/user-attachments/assets/cbd61134-d0e0-40b0-9e08-4d07cd8df942)
+
+## 🧑‍💻 Autor
+
+**Desenvolvido por Paulo Giovani durante a imersão Next Level Week da Rocketseat.**
