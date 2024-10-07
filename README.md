@@ -54,3 +54,6 @@ A aplicação tem como objetivo permitir que os usuários registrem e gerenciem 
 ## 🧑‍💻 Autor
 
 **Desenvolvido por Paulo Giovani durante a imersão Next Level Week da Rocketseat.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+
